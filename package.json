@@ -1,0 +1,26 @@
+{
+  "name": "kts_event_proj",
+  "version": "1.0.0",
+  "description": "code repository for kts event website",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktsTravel/KtsEvent.git"
+  },
+  "author": "fady chebly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktsTravel/KtsEvent/issues"
+  },
+  "homepage": "https://github.com/ktsTravel/KtsEvent#readme"
+}
